@@ -1,8 +1,13 @@
-### Hi, I'm Alejandro Fuentes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hello everyone ... My name is Alejandro Fuentes and I'm a software developer. I'm from Argentinian, living in Brasilia (Brazil) and currently working at GlobalWeb Corp. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+### Hello everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+My name is *Alejandro Fuentes* and I'm a software developer. 
+I'm from Argentinian, living in Brasilia (Brazil) and currently working at GlobalWeb Corp. 
+
+*You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].*
 
 ## Your short description
-- 🔭 I’m currently working on - home
+
+- 🔭 I’m currently working on - home (due to pandemic).
 - 🌱 I’m currently learning - microservices - nodeJs - Express - React.
 - 👯 I’m looking to collaborate with - Web Fullstack
 - 💬 Ask me about - Front
@@ -23,9 +28,11 @@ Hello everyone ... My name is Alejandro Fuentes and I'm a software developer. I'
 
 
 ## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/ale-fuentes/ale-fuentes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-fuentes&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 <a href="https://github.com/ale-fuentes/ale-fuentes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ale-fuentes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ale-fuentes's GitHub Stats" />
 </a>
@@ -50,7 +57,7 @@ Hello everyone ... My name is Alejandro Fuentes and I'm a software developer. I'
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/alefuen60678252
-[2]: https://github.com/MartinHeinz
+[2]: https://github.com/ale-fuentes
 [3]: https://www.linkedin.com/in/raul-alejandro-fuentes/
 
 
