@@ -9,10 +9,6 @@ Hello everyone ... My name is Alejandro Fuentes and I'm a software developer. I'
 - 🥅 2021 Goal - Web fullStack
 - ⚡ Fun fact - guitar, food and photos
 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=ale-fuentes&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
-
 
 ## 🔧 Technologies & Tools
 
@@ -24,6 +20,20 @@ Hello everyone ... My name is Alejandro Fuentes and I'm a software developer. I'
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/ale-fuentes/ale-fuentes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-fuentes&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/ale-fuentes/ale-fuentes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ale-fuentes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ale-fuentes's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ale-fuentes/Firsts_Steps_With_NodeJs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ale-fuentes&repo=Firsts_Steps_With_NodeJs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 <!-- icons with padding -->
 
