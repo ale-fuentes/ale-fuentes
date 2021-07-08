@@ -20,6 +20,7 @@ I'm from Argentinian, living in Brasilia (Brazil) and currently working at Globa
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse-ide&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node_JS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
@@ -56,7 +57,7 @@ I'm from Argentinian, living in Brasilia (Brazil) and currently working at Globa
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/alefuen60678252
+[1]: https://twitter.com/RaulAle69785248
 [2]: https://github.com/ale-fuentes
 [3]: https://www.linkedin.com/in/raul-alejandro-fuentes/
 
